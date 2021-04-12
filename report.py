@@ -11,7 +11,6 @@ except ModuleNotFoundError as e:
     m = str(e).split("'")[1]
     os.system(f'pip install {m}')
 
-# https://pastebin.com/raw/Fv7GVQY0
 
 a=list1[0]
 b=list1[1]
